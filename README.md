@@ -1,4 +1,4 @@
-<img width="1133" height="1039" alt="Neon Hospital Data Intelligence Dashboard (1)" src="https://github.com/user-attachments/assets/790d25e5-bb9a-4401-adbe-330830875c52" /># FINAL-PR-DATA-INTELLIGENCE-DASHBOARD
+ # FINAL-PR-DATA-INTELLIGENCE-DASHBOARD
 <!-- ✦ Data Intelligence Dashboard • README ✦ -->
 
 <div align="center">
@@ -136,6 +136,7 @@ flowchart LR
 | `Total_Amount` | Quantity × Unit_Price |
 
 **⚙️ Helper columns (formulas):** `Month_Start`, `Month_End`, `Tenure_Yrs`, `Days_Since_Purchase`, `Name_Count`, `Purchase_Type` (First / Repeat), `Filter_Seq`
+
 <img width="1133" height="1039" alt="Neon Hospital Data Intelligence Dashboard (1)" src="https://github.com/user-attachments/assets/aea17e89-c068-42c8-b0d1-f27c52b70572" />
 
 <p align="center">✦ ･ ﾟ: *✧･ﾟ:* ─────── ❀ ─────── *:･ﾟ✧*:･ﾟ ✦</p>
